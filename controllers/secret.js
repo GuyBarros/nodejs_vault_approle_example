@@ -2,7 +2,7 @@
 var options = {
     apiVersion: 'v1', // default
     endpoint: 'http://127.0.0.1:8080', // default
-    token: 'd21a430e-39dd-0eca-b369-19236e56cb64' // optional client token; can be fetched after valid initialization of the server
+    token: 'd21a430' // optional client token; can be fetched after valid initialization of the server
   };
   
   // get new instance of the client

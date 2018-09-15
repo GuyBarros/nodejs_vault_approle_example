@@ -4,6 +4,7 @@ var options = {
     endpoint: 'http://127.0.0.1:8200', // default
     token: 'd21a430e'  // token with enough rights to talk to your approle
 };
+
   
   // get new instance of the client
   var vault = require("node-vault")(options);
